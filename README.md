@@ -14,13 +14,14 @@ With a flexible and adaptive approach, I have been able to select and integrate 
 
 **💻 Tech Stack**
 ---
-![JavaScript](https://github.com/github/explore/raw/main/topics/javascript/javascript.png) ![TypeScript](https://github.com/github/explore/raw/main/topics/typescript/typescript.png) ![PHP](https://github.com/github/explore/raw/main/topics/php/php.png)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![React](https://github.com/github/explore/raw/main/topics/react/react.png) ![Angular](https://github.com/github/explore/raw/main/topics/angular/angular.png) ![Node.js](https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png) ![Express](https://github.com/github/explore/raw/main/topics/express/express.png) ![NestJS](https://github.com/github/explore/raw/main/topics/nestjs/nestjs.png)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![MongoDB](https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png) ![MySQL](https://github.com/github/explore/raw/main/topics/mysql/mysql.png) ![PostgreSQL](https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png) ![Redis](https://github.com/github/explore/raw/main/topics/redis/redis.png) ![RabbitMQ](https://github.com/github/explore/raw/main/topics/rabbitmq/rabbitmq.png)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
+	)
 
-![AWS](https://github.com/github/explore/raw/main/topics/aws/aws.png) ![Notion](https://github.com/github/explore/raw/main/topics/notion/notion.png) ![Jira](https://github.com/github/explore/raw/main/topics/jira/jira.png) ![Git](https://github.com/github/explore/raw/main/topics/git/git.png)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ---
