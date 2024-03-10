@@ -28,6 +28,6 @@ With a flexible and adaptive approach, I have been able to select and integrate 
 
 **🌐 Socials**
 
-- [![Linkedin](http://www.google.com.au/images/nav_logo7.png)](https://www.linkedin.com/in/matheo-souza-286b17179/))
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-souza-286b17179/))
 
 Let's collaborate and create something awesome together! 🚀
