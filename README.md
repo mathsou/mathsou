@@ -28,7 +28,6 @@ With a flexible and adaptive approach, I have been able to select and integrate 
 
 **🌐 Socials**
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/matheo-souza-286b17179/))
-- [Dio - Digital Innovation One](https://www.dio.me/users/math_sou)
+- [![Linkedin](http://www.google.com.au/images/nav_logo7.png)](https://www.linkedin.com/in/matheo-souza-286b17179/))
 
 Let's collaborate and create something awesome together! 🚀
