@@ -1,7 +1,7 @@
 **👋 Hi There**
 ---
 
-I'm Matheo SOuza, a passionate IT professional with a strong foundation in Analysis and Systems Development. Currently pursuing a Bachelor's degree in Computer Science, I thrive on tackling challenging projects and continuously expanding my skill set. My commitment to efficient solutions and innovation drives my contributions in the tech industry.
+I'm Matheo Souza, a passionate IT professional with a strong foundation in Analysis and Systems Development. Currently pursuing a Bachelor's degree in Computer Science, I thrive on tackling challenging projects and continuously expanding my skill set. My commitment to efficient solutions and innovation drives my contributions in the tech industry.
 
 **🚀 Expertise**
 ---
