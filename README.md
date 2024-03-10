@@ -14,8 +14,14 @@ With a flexible and adaptive approach, I have been able to select and integrate 
 
 **💻 Tech Stack**
 ---
+![JavaScript](https://github.com/github/explore/raw/main/topics/javascript/javascript.png) ![TypeScript](https://github.com/github/explore/raw/main/topics/typescript/typescript.png) ![PHP](https://github.com/github/explore/raw/main/topics/php/php.png)
 
-![Angular](https://github.com/github/explore/raw/main/topics/angular/angular.png) ![React](https://github.com/github/explore/raw/main/topics/react/react.png) ![NodeJS](https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png) ![Express](https://github.com/github/explore/raw/main/topics/express/express.png) ![MySQL](https://github.com/github/explore/raw/main/topics/mysql/mysql.png) ![MongoDB](https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png) ![Docker](https://github.com/github/explore/raw/main/topics/docker/docker.png)
+![React](https://github.com/github/explore/raw/main/topics/react/react.png) ![Angular](https://github.com/github/explore/raw/main/topics/angular/angular.png) ![Node.js](https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png) ![Express](https://github.com/github/explore/raw/main/topics/express/express.png) ![NestJS](https://github.com/github/explore/raw/main/topics/nestjs/nestjs.png)
+
+![MongoDB](https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png) ![MySQL](https://github.com/github/explore/raw/main/topics/mysql/mysql.png) ![PostgreSQL](https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png) ![Redis](https://github.com/github/explore/raw/main/topics/redis/redis.png) ![RabbitMQ](https://github.com/github/explore/raw/main/topics/rabbitmq/rabbitmq.png)
+
+![AWS](https://github.com/github/explore/raw/main/topics/aws/aws.png) ![Notion](https://github.com/github/explore/raw/main/topics/notion/notion.png) ![Jira](https://github.com/github/explore/raw/main/topics/jira/jira.png) ![Git](https://github.com/github/explore/raw/main/topics/git/git.png)
+
 
 ---
 
